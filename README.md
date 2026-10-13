@@ -52,3 +52,5 @@ data-salary-dashboard/
 ├── screenshot.png            # UI screenshot used in README
 ├── README.md                 # Project overview (you're reading it!)
 └── .gitignore                # Files/folders to be excluded from Git
+
+Last updated: 2026-10-13 15:58 UTC
